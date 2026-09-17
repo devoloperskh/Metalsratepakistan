@@ -3,15 +3,17 @@
   "short_name": "MetalsRatePKR",
   "description": "Live Gold & Silver Rates in Pakistan",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
+  "orientation": "portrait",
   "icons": [
-  {
-    "src": "1789625669355.jpg",
-    "sizes": "512x512",
-    "type": "image/jpeg",
-    "purpose": "any maskable"
-  }
-]
+    {
+      "src": "1789625669355.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
 }
