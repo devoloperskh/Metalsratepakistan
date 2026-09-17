@@ -1,0 +1,10 @@
+{
+  "name": "MetalsRatePKR",
+  "short_name": "MetalsRatePKR",
+  "description": "Live Gold & Silver Rates in Pakistan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": []
+}
